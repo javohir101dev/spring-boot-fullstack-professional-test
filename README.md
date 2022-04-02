@@ -1,12 +1,13 @@
-[![CICD](https://github.com/amigoscode/spring-boot-fullstack-professional/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/amigoscode/spring-boot-fullstack-professional/actions/workflows/deploy.yml)
+[comment]: <> ([![CICD]&#40;https://github.com/amigoscode/spring-boot-fullstack-professional/actions/workflows/deploy.yml/badge.svg?branch=main&#41;]&#40;https://github.com/amigoscode/spring-boot-fullstack-professional/actions/workflows/deploy.yml&#41;)
 
-https://amigoscode.com/p/full-stack-spring-boot-react
+[comment]: <> (https://amigoscode.com/p/full-stack-spring-boot-react)
 
-![Cover](https://user-images.githubusercontent.com/40702606/111074799-bdfbcf00-84dc-11eb-98c0-d40a99aa0da7.png)
+[comment]: <> (![Cover]&#40;https://user-images.githubusercontent.com/40702606/111074799-bdfbcf00-84dc-11eb-98c0-d40a99aa0da7.png&#41;)
 
-# Course Description
+# Project Description
 Spring Boot allows to take an idea/prototype and turn it into a real thing in matters minutes hours of months and years. A lot of companies use Spring Boot because it's easy to setup, learn and write code very fast without having to setup the low level platform code. Recently, Netflix has decided to switch their entire backend to Spring Boot. This shows that Spring Boot is a must if you are or want to become a software engineer in the Java world.
-This course teaches how to build a full stack application from the ground up and touches on very import concepts used in real live software development. Concepts such as:
+
+This project consist of simple Student project with ist tests and simple Unit test also
 
 - Spring Boot Backend API
 - Frontend with React.js Hooks and Functions Components
@@ -20,9 +21,7 @@ This course teaches how to build a full stack application from the ground up and
 - Software Deployment Monitoring with Slack
 - Unit and Integration Testing
 
-This course focus on teaching you the process needed to build your own apps and deploy to real users using real software development techniques and skills. The skills gained at the end of this can be applied immediately on your own projects, university projects and at your work place.
-
-Have you got what it takes to become a professional software engineer? Cool I'll see you inside. https://amigoscode.com/p/full-stack-spring-boot-react
+Here is my email: uralovjavohir25@gmail.com
 
 ![Screenshot 2021-03-11 at 22 56 19](https://user-images.githubusercontent.com/40702606/111074929-5003d780-84dd-11eb-8284-e7c92c7e2905.png)
 
